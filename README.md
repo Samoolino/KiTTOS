@@ -179,6 +179,43 @@ MODULAR CODING → COMMIT & PR REVIEW → AUTOMATED TESTS
 MERGE & TAG → DEPLOYMENT → DOCUMENTATION → ESG TRACKING → SECURITY/BACKUP
 ```
 
+
+
+
+
+# Kiittos — AI-Powered Smart Swimsuit
+
+Kiittos is a safety-critical smart swimsuit that auto-inflates during underwater emergencies. It combines embedded systems, AI, mobile apps, and cloud analytics to deliver real-time protection and traceable ESG impact.
+
+## Repository Structure
+See `docs/architecture.md` for full system layout. Key folders:
+- `hardware/`: Schematics, BOM, mechanical CAD
+- `firmware/`: MCU code, drivers, watchdogs
+- `ai/`: Datasets, training, edge inference
+- `mobile-app/`: iOS/Android app and SDKs
+- `backend/`: APIs, OTA, telemetry
+- `tests/`: Lab and field protocols
+- `manufacturing/`: SOPs, jigs, packaging
+- `compliance/`: Certification, safety case
+- `sustainability/`: ESG reports, traceability
+- `qa/`: Checklists, CAPA logs
+- `marketing/`: Demo scripts, assets
+- `procurement/`: Supplier forms, PO templates
+- `ops/`: Support playbooks, incident response
+
+## Quickstart
+1. Clone the repo
+2. See `docs/onboarding.md` for setup instructions
+3. Review `docs/PRD.md` and `docs/architecture.md`
+4. Use `docs/process.md` for branch and review policies
+
+## License
+See `LICENSE` for folder-level license mapping.
+
+
+
+
+
 Each arrow represents a required process gate (no skipping steps). All actions leave an immutable trace.
 
 ---
