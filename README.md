@@ -1,6 +1,4 @@
-Absolutely, Oluwaseun! Here's how we can clearly present KÏTTOS as a collection product with distinct variants, technical descriptions, and materiality specifications:
-
----
+ 
 
 # 🧠🌊 KÏTTOS — A Collection of Intelligent & Passive Floatation Swimwear
 
