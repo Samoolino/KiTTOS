@@ -1,3 +1,16 @@
-# KIITTOS — LICENSE
-> Placeholder document for `LICENSE`.
-> To be updated during Phase 1 setup.
+Kiittos Repository License Map
+
+This repository contains mixed-license content. Each folder is governed by its own license policy:
+
+- /docs: CC-BY-4.0
+- /mobile-app: Apache-2.0
+- /backend: Apache-2.0
+- /ai: Apache-2.0 (except /models — proprietary until certification)
+- /hardware: Proprietary until release
+- /firmware: Proprietary until release
+- /tests, /qa, /manufacturing, /compliance: Proprietary
+- /sustainability: CC-BY-4.0
+- /marketing: CC-BY-NC-4.0
+- /procurement, /ops: Confidential/Internal Use Only
+
+Contact Samoolino for licensing questions or commercial use.
