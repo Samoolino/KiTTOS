@@ -1,0 +1,23 @@
+
+### 📄 `docs/process.md`
+```markdown
+# Kiittos Development Process
+
+## Branch Strategy
+- `main`: Protected, release-ready
+- `develop`: Integration branch
+- Feature branches: `feature/<name>`
+
+## Merge Requirements
+- CI pass
+- 2 code reviews
+- ADR linked (if architectural)
+- Security scan
+
+## Review Gates
+- CODEOWNERS enforced
+- PR template required
+- Semantic versioning for releases
+
+## Decision Records
+Use `docs/ADRs/` for major decisions. Each ADR must be signed off by product owner.
