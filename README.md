@@ -1,5 +1,9 @@
  
 
+ 
+
+ 
+
 # 🧠🌊 KÏTTOS — A Collection of Intelligent & Passive Floatation Swimwear
 
 KÏTTOS is not a single product—it’s a **collection of engineered aquatic safety wearables** designed to protect lives in water environments. The product line includes both **smart AI-powered swim floats** and **non-electric buoyancy suits**, each tailored for different use cases, body types, and safety needs.
@@ -43,39 +47,39 @@ A non-electric, technically designed float suit that relies on **buoyancy-enhanc
   - Optional detachable float collar for neck support
 
 - **Buoyancy Support**:  
-   Passive lift for users up to 140kg  
-   Ideal for rehabilitation, casual swimming, and low-impact aquatic fitness
+  - Passive lift for users up to 140kg  
+  - Ideal for rehabilitation, casual swimming, and low-impact aquatic fitness
 
 ---
 
- 🧵 Materiality Selection: 60–84% Sustainable Composition
+## 🧵 Materiality Selection: 60–84% Sustainable Composition
 
 All KÏTTOS suits—smart and passive—are engineered with a **sustainability-first approach**. Material selection is defined by traceable, recycled content ranging from **60% to 84%**, depending on variant and size.
 
-  Material Stack
+### Material Stack
 
--   Smart Suits:  
-    Recycled nylon (60–70%)  
-    TPU-coated spandex (up to 84%)  
-    Embedded sensor mesh (biocompatible polymers)
+- **Smart Suits**:  
+  - Recycled nylon (60–70%)  
+  - TPU-coated spandex (up to 84%)  
+  - Embedded sensor mesh (biocompatible polymers)
 
--  L-KÏTTOS Float Suits:  
-    Closed-cell EVA foam (recycled content: 68–80%)  
-    Recycled polyester outer shell  
-    Low-impact dyes and stitching threads
+- **L-KÏTTOS Float Suits**:  
+  - Closed-cell EVA foam (recycled content: 68–80%)  
+  - Recycled polyester outer shell  
+  - Low-impact dyes and stitching threads
 
-  ESG Commitment
+### ESG Commitment
 
-  All materials sourced with traceable recycling percentages  
-  Lifecycle carbon footprint tracked per unit  
-  End-of-life disassembly and reclamation program
+- All materials sourced with traceable recycling percentages  
+- Lifecycle carbon footprint tracked per unit  
+- End-of-life disassembly and reclamation program
+
  
 
 
 
 
-
-KÏTTOS SMART SWIMSUIT — Immutable Product Engineering & Code Bank Process
+🧠 🌀 KÏTTOS SMART SWIMSUIT — Immutable Product Engineering & Code Bank Process
 
 
  🌊 Product Overview
