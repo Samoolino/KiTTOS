@@ -1,3 +1,20 @@
-# KIITTOS — CODEOWNERS
-> Placeholder document for `.github/CODEOWNERS`.
-> To be updated during Phase 1 setup.
+# Firmware
+/firmware/ @firmware-leads
+
+# Hardware
+/hardware/ @hardware-leads
+
+# AI
+/ai/ @ml-leads
+
+# Mobile App
+/mobile-app/ @mobile-leads
+
+# Backend
+/backend/ @backend-leads
+
+# Docs
+/docs/ @product-team
+
+# CI/CD
+.github/workflows/ @devops-team
