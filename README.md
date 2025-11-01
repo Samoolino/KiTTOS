@@ -52,7 +52,7 @@ A non-electric, technically designed float suit that relies on **buoyancy-enhanc
 
 ---
 
-## 🧵 Materiality Selection: 60–84% Sustainable Composition
+## 🧵 Material Selection: 60–84% Sustainable Composition
 
 All KÏTTOS suits—smart and passive—are engineered with a **sustainability-first approach**. Material selection is defined by traceable, recycled content ranging from **60% to 84%**, depending on variant and size.
 
