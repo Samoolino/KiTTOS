@@ -12,11 +12,14 @@ PART 1: FOUNDATIONAL CONCEPTS
 1.1 The "Drowning Problem" — Current Limitations
 Definition of Drowning (WHO):
 
-Drowning is the process of experiencing respiratory impairment from submersion in liquid
-Results in: hypoxia → hypercapnia → acidosis → organ failure → death
-Timeline: 4-6 minutes to brain damage; 10+ minutes to irreversible death
-Current Human Limitations:
+Drowning is the process of experiencing respiratory impairment from submersion in liquid 
 
+Results in: hypoxia → hypercapnia → acidosis → organ failure → death
+
+Timeline: 4-6 minutes to brain damage; 10+ minutes to irreversible death
+
+
+Current Human Limitations:
 Parameter	Human Capability	Aquatic Need	Gap
 O₂ Storage (lungs)	21 seconds	10+ minutes	4,700% deficit
 Water O₂ Concentration	~8 mg/L	Need 5+ mg/L extraction	Viable but demanding
